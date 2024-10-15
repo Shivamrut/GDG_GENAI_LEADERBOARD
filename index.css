@@ -1,7 +1,7 @@
 body {
-    background-color: #121212;
+    background-color: #000000;
     color: #e0e0e0;
-    font-family: 'Roboto', sans-serif;
+    font-family: monospace;
 }
 
 .header-google {
@@ -12,7 +12,7 @@ body {
 }
 
 .header-google h1 {
-    color: #ffffff;
+    color: #f1efef;
     font-size: 32px;
 }
 
@@ -20,7 +20,7 @@ body {
     margin: 50px auto;
     max-width: 800px;
     padding: 20px;
-    background-color: #1e1e1e;
+    background-color: #141313;
     border-radius: 10px;
     text-align: center;
 }
@@ -65,7 +65,7 @@ body {
 
 .progress-fill {
     height: 100%;
-    background-color: #4285F4;
+    background-color: #159309;
     border-radius: 8px;
 }
 
@@ -82,7 +82,7 @@ body {
     margin: 20px auto;
     max-width: 800px;
     padding: 10px 20px;
-    background-color: #1e1e1e;
+    background-color: #000000;
     border-radius: 10px;
     gap: 10px;
     /* Add space between elements */
