@@ -1,138 +1,274 @@
+/* General body styling */
 body {
-    background-color: #121212;
-    color: #e0e0e0;
-    font-family: 'Roboto', sans-serif;
+  background-color: #0d1117; /* Darker background for contrast */
+  color: #f0f6fc;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  overflow-x: hidden;
 }
 
+/* Header Styling */
 .header-google {
-    background-color: #4285F4;
-    color: white;
-    text-align: center;
-    padding: 20px;
+  background-color: #1f6feb; /* Brighter shade of blue */
+  padding: 40px 0;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .header-google h1 {
-    color: #ffffff;
-    font-size: 32px;
+  font-size: 2.5rem;
+  letter-spacing: 1.5px;
+  font-weight: bold;
+  margin: 0;
 }
 
-.leaderboard-table {
-    margin: 50px auto;
-    max-width: 800px;
-    padding: 20px;
-    background-color: #1e1e1e;
-    border-radius: 10px;
-    text-align: center;
-}
-
-.participant-info {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 0;
-    flex-wrap: wrap;
-}
-
-.participant-rank {
-    font-size: 48px;
-    font-weight: bold;
-    color: #4285F4;
-}
-
-.participant-name {
-    font-size: 24px;
-    color: #90caf9;
-    text-align: left;
-    margin-right: 20px;
-    display: flex;
-    align-items: center;
-}
-
-.participant-badges {
-    font-size: 14px;
-    margin-left: 10px;
-    color: #fbc02d;
-}
-
-.progress-container {
-    width: 100%;
-    max-width: 300px;
-    height: 12px;
-    border: 2px solid #4285F4;
-    border-radius: 10px;
-    background-color: transparent;
-}
-
-.progress-fill {
-    height: 100%;
-    background-color: #4285F4;
-    border-radius: 8px;
-}
-
-.leaderboard-body {
-    margin: 0 auto;
-    max-width: 800px;
-}
-
-/* Top bar for GDG and countdown */
+/* Top bar layout with logo, search, countdown, and progress */
 .top-bar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px auto;
-    max-width: 800px;
-    padding: 10px 20px;
-    background-color: #1e1e1e;
-    border-radius: 10px;
-    gap: 10px;
-    /* Add space between elements */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 30px auto;
+  background-color: #161b22;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  flex-wrap: wrap;
 }
 
 .gdg-logo {
-    height: 50px;
-    width: auto;
-    flex-shrink: 0;
-    /* Prevent image from shrinking */
+  height: 60px;
+  margin-right: 15px;
+  border-radius: 2px;
+}
+
+.search-bar {
+  flex-grow: 1;
+  margin: 0 20px;
+}
+
+.search-bar input {
+  padding: 12px;
+  font-size: 1.1rem;
+  border: 1px solid #2d333b;
+  border-radius: 8px;
+  background-color: #f6ed9e;
+  color: #b9c7d4;
+  transition: border-color 0.3s ease;
+  width: 100%; /* Ensure input takes full width */
+}
+
+.search-bar input:focus {
+  outline: none;
+  border-color: #1f6feb;
 }
 
 .countdown {
-    font-size: 18px;
-    color: #ffffff;
+  color: #d1d5da;
+  font-size: 1.2rem;
+  margin: 10px;
 }
 
+.progress-area {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+/* Progress bar styling */
 .target-progress-container {
-    width: 100%;
-    max-width: 300px;
-    height: 15px;
-    border-radius: 10px;
-    background-color: #616161;
-    margin-top: 5px;
+  width: 200px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #21262d;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
 }
 
 .target-progress-fill {
-    height: 100%;
-    background-color: #00e676;
-    border-radius: 8px;
+  height: 100%;
+  background: linear-gradient(90deg, #34a853, #fbbc04);
+  border-radius: 10px;
+  transition: width 0.5s ease;
 }
 
-/* Media query to ensure elements stack on mobile view */
+#target-text {
+  color: #c9d1d9;
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+/* Leaderboard container */
+.leaderboard-table {
+  max-width: 1200px;
+  margin: 40px auto;
+  background-color: #161b22;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+}
+
+.leaderboard-body {
+  padding: 10px 0;
+}
+
+/* Participant information */
+.participant-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+  margin-bottom: 15px;
+  transition: background-color 0.3s;
+  border-bottom: 1px solid #2d333b;
+}
+
+.participant-info:hover {
+  background-color: #21262d;
+}
+
+.participant-rank {
+  padding-right: 10px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1f6feb;
+}
+
+.participant-name {
+  font-size: 1.4rem;
+  color: #58a6ff;
+  display: flex;
+  align-items: center;
+}
+
+.participant-badges {
+  font-size: 0.9rem;
+  margin-left: 12px;
+  color: #f0e68c;
+}
+
+/* Adjustments for the progress bar visibility on all screen sizes */
+.progress-container {
+  flex-grow: 1;
+  height: 15px;
+  background-color: #21262d;
+  border-radius: 8px;
+  margin-left: 20px;
+  position: relative;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #00e676;
+  border-radius: 8px;
+  transition: width 0.4s ease;
+}
+
+/* Responsive layout */
 @media (max-width: 768px) {
-    .top-bar {
-        flex-direction: column;
-        /* Stack elements vertically */
-        align-items: center;
-        /* Center elements */
-    }
+  .top-bar {
+    flex-direction: column;
+    padding: 15px;
+    margin: 10px;
+    align-items: flex-start; /* Align items to the start for better spacing */
+  }
 
-    .gdg-logo {
-        height: 30px;
-        /* Reduce logo size on mobile */
-        margin-bottom: 10px;
-        /* Add space below logo */
-    }
+  .gdg-logo {
+    margin-bottom: 15px;
+  }
 
-    .target-progress-container {
-        max-width: 100%;
-        /* Make progress bar full width */
-    }
+  .search-bar {
+    margin: 10px 0;
+    width: 100%; /* Ensure search bar takes full width */
+  }
+
+  .leaderboard-table {
+    width: 96%;
+    margin: 0 auto; /* Center leaderboard on mobile */
+  }
+
+  .participant-name {
+    font-size: 1.1rem;
+    font-weight: bolder;
+  }
+
+  .participant-info {
+    padding: 10px 0; /* Slightly more padding for touch devices */
+    flex-direction: column; /* Stack items vertically for mobile */
+    align-items: flex-start;
+  }
+
+  .progress-area {
+    align-items: center;
+    width: 100%; /* Full width for progress area */
+  }
+
+  .participant-badges {
+    font-size: 0.8rem; /* Adjust badge font size for better fit */
+    margin-left: 12px;
+    color: #f0e68c;
+  }
+
+  .target-progress-container {
+    width: 100%; /* Ensure progress bar is responsive */
+    height: 15px; /* Height adjusted for smaller screens */
+    margin: 5px 0; /* Reduced margin for compactness */
+  }
+
+  /* Responsive adjustments for the progress bar text */
+  #target-text {
+    font-size: 0.8rem;
+  }
+
+  /* Adjust the participant progress container for better visibility on mobile */
+  .progress-container {
+    margin-left: 0px;
+    width: 100%; /* Ensure progress bar fills available space */
+    margin: 5px 0px; /* Add some spacing */
+    height: 10px; /* Slightly reduced height for mobile */
+  }
 }
+
+/* Modal Styling */
+.modal-content {
+  margin-top: 40px;
+  border-radius: 10px;
+  /* border: 1px solid #011020; Light gray border */
+}
+
+.modal-header {
+  background-color: #437ebd; /* Bootstrap primary color */
+  color: white; /* White text color */
+  /* border-top-left-radius: 10px;
+  border-top-right-radius: 10px; */
+}
+
+.modal-body {
+  background-color: #373737; /* Light background color */
+  color: #ffffff; /* Dark text color */
+}
+
+.modal-footer {
+  background-color: #437ebd;
+  border-top: 1px solid #dee2e6; /* Light gray border */
+}
+
+.modal-title {
+  font-size: 1.5rem; /* Slightly larger font for title */
+}
+
+/* More Details button */
+.more-details {
+  color: #007bff; /* Bootstrap primary color */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.more-details:hover {
+  color: #0056b3; /* Darker shade on hover */
+}
+
+/* Participant Info Styles */
