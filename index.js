@@ -47,7 +47,7 @@ fetch('data.json')
             participantRow.innerHTML = `
                 <span class="participant-rank">#${index + 1}</span>
                 <span class="participant-name">${participant['User Name']}  
-                    <span class="participant-badges">${totalBadges}X⭐</span>
+                    <span class="participant-badges">🌟 x ${totalBadges}</span>
                 </span>
                 <span class="more-details" data-index="${index}" style="cursor: pointer; margin-left: 10px;">▼ More</span>
                 <div class="progress-container">
