@@ -1,35 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Google Cloud Skills Boost Leaderboard</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="./index.css">
-</head>
-<body>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <body>
     <!-- Top bar with GDG logo, countdown, and progress -->
     <div class="header-google">
-        <h1>GDG 2024 Gen AI Study Jam Leaderboard</h1>
+      <h1>GDG 2024 Gen AI Study Jam Leaderboard</h1>
     </div>
+    <br />
     <div class="top-bar">
-        <img src="./img3.webp" alt="GDG Logo" class="gdg-logo">
-        <div class="countdown" id="countdown"></div>
-        <div>
-            <div class="target-progress-container">
-                <div class="target-progress-fill" id="target-progress"></div>
-            </div>
-            <small id="target-text"></small>
+      <img src="./img3.webp" alt="GDG Logo" class="gdg-logo" />
+      <div class="countdown" id="countdown"></div>
+      <div>
+        <div class="target-progress-container">
+          <div class="target-progress-fill" id="target-progress"></div>
         </div>
+        <small id="target-text"></small>
+      </div>
     </div>
 
     <div class="container leaderboard-table">
-        <div id="leaderboard-body" class="leaderboard-body">
-            <!-- Leaderboard data will be inserted here dynamically -->
-        </div>
+      <div id="leaderboard-body" class="leaderboard-body">
+        <!-- Leaderboard data will be inserted here dynamically -->
+      </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="./index.js"></script>
-</body>
+  </body>
 </html>
