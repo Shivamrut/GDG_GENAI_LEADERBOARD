@@ -18,8 +18,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
+    "# of Skill Badges Completed": 1,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -150,8 +150,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 5,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
+    "# of Skill Badges Completed": 6,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]",
     "# of Arcade Games Completed": 1,
     "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
@@ -246,10 +246,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 3,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Gagana K H",
@@ -270,10 +270,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 3,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Yashawanth V",
@@ -294,10 +294,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 3,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Poovarasan S",
@@ -306,8 +306,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 10,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
+    "# of Skill Badges Completed": 12,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -320,15 +320,15 @@
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Mohammed Amaan M Patel",
     "User Email": "amaanpatel2286@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1d5fcefd-fb2f-49f8-ae5b-503e39a7af15",
     "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "No",
+    "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
@@ -448,7 +448,7 @@
     "User Email": "vaishnavinmuvce@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/41c77192-9472-4549-89ac-5ebb634624db",
     "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "No",
+    "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
@@ -486,10 +486,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 2,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 6,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Looker [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Rishi I",
@@ -594,10 +594,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 1,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 2,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Raviteja M",
@@ -630,8 +630,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 7,
-    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
+    "# of Skill Badges Completed": 10,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -652,7 +652,7 @@
     "User Email": "sudharshanhegde68@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/50718c2f-5708-4e76-92d2-187cc563cb38",
     "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "No",
+    "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
@@ -952,7 +952,7 @@
     "User Email": "manyashree.h11@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/4ea3a442-ca56-4757-ba6b-10b02ee3e7c2",
     "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "No",
+    "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
@@ -1278,10 +1278,10 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Skill Badges Completed": 3,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Kamya S L",
@@ -1326,8 +1326,8 @@
     "Profile URL Status": "All Good",
     "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
-    "# of Skill Badges Completed": 0,
-    "Names of Completed Skill Badges": "",
+    "# of Skill Badges Completed": 5,
+    "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]",
     "# of Arcade Games Completed": 0,
     "Names of Completed Arcade Games": ""
   },
@@ -1372,7 +1372,7 @@
     "User Email": "madhavaswamy72@gmail.com",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/3381ff48-7347-4671-88b0-6c13198697d8",
     "Profile URL Status": "All Good",
-    "Access Code Redemption Status": "No",
+    "Access Code Redemption Status": "Yes",
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
@@ -1520,8 +1520,8 @@
     "All Skill Badges & Games Completed": "No",
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
-    "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "# of Arcade Games Completed": 1,
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
   },
   {
     "User Name": "Varsha Rao",
