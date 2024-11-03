@@ -1,6 +1,6 @@
 // Define maximum badges and target date for the countdown
 const maxBadges = 16;
-const targetDate = new Date('2024-11-11');
+const targetDate = new Date('2024-11-16');
 
 // Function to update the countdown timer
 function updateCountdown() {
