@@ -29,10 +29,20 @@ fetch('data.json')
         let completedParticipantsCount = 0; // Track how many participants completed all badges
 
         // Sort participants by total badges earned
-        data.sort((a, b) =>
-            (b['# of Skill Badges Completed'] + b['# of Arcade Games Completed']) -
-            (a['# of Skill Badges Completed'] + a['# of Arcade Games Completed'])
-        );
+        // Sort participants by total badges and rank if badges are the same
+        data.sort((a, b) => {
+            const totalBadgesA = a['# of Skill Badges Completed'] + a['# of Arcade Games Completed'];
+            const totalBadgesB = b['# of Skill Badges Completed'] + b['# of Arcade Games Completed'];
+
+            if (totalBadgesA === totalBadgesB) {
+                // If total badges are equal, sort by rank (ascending order)
+                return a.rank - b.rank;
+            }
+
+            // Sort by total badges (descending order)
+            return totalBadgesB - totalBadgesA;
+        });
+
 
         const leaderboardBody = document.getElementById('leaderboard-body');
 
@@ -56,7 +66,7 @@ fetch('data.json')
             `;
 
             // Add event listener to show modal on click
-            participantRow.querySelector('.more-details').addEventListener('click', function() {
+            participantRow.querySelector('.more-details').addEventListener('click', function () {
                 // Populate modal with participant details
                 const modalBody = document.getElementById('modal-details-body');
                 modalBody.innerHTML = `
@@ -65,7 +75,7 @@ fetch('data.json')
                     <p><strong>Arcade Games Completed:</strong> ${participant['# of Arcade Games Completed']}</p>
                     <p><strong>Names of Completed Arcade Games:</strong> ${participant['Names of Completed Arcade Games']}</p>
                 `;
-                
+
                 // Show the modal
                 const detailsModal = new bootstrap.Modal(document.getElementById('detailsModal'));
                 detailsModal.show();

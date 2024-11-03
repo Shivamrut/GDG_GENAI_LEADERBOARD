@@ -9,7 +9,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anish Dev Edward",
@@ -21,7 +22,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Tarun pattubala",
@@ -33,7 +35,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shalom Riona Fernandes",
@@ -45,7 +48,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Kushal Kumar J",
@@ -57,7 +61,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anirudh Harishchandra Shetty",
@@ -69,7 +74,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Amith S",
@@ -81,7 +87,8 @@
     "# of Skill Badges Completed": 6,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anirudh P Bhat",
@@ -93,7 +100,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Aniruddh",
@@ -105,7 +113,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Syed Ahmed",
@@ -117,7 +126,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Inchara V",
@@ -129,7 +139,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Gagan G Deshbhandari",
@@ -141,7 +152,8 @@
     "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Darshan Gowda M",
@@ -153,7 +165,8 @@
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 2
   },
   {
     "User Name": "Shreeshail Balavantray Miragi",
@@ -165,7 +178,8 @@
     "# of Skill Badges Completed": 7,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "VISMAYA TV",
@@ -177,7 +191,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Arun R",
@@ -189,7 +204,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "S Sindhu",
@@ -201,7 +217,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vishwas B S",
@@ -213,7 +230,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Chyavan P Sharma",
@@ -225,7 +243,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Nischith R",
@@ -237,7 +256,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Prajwal D P",
@@ -249,7 +269,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Gagana K H",
@@ -261,7 +282,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Samarth",
@@ -273,7 +295,8 @@
     "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Yashawanth V",
@@ -285,7 +308,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "ARUN M",
@@ -297,7 +321,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Poovarasan S",
@@ -309,7 +334,8 @@
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 2
   },
   {
     "User Name": "Yasmeen Taj",
@@ -321,7 +347,8 @@
     "# of Skill Badges Completed": 4,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Mohammed Amaan M Patel",
@@ -333,7 +360,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "S.V.VAISHNAV",
@@ -345,7 +373,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "R Rohan Shalom",
@@ -357,7 +386,8 @@
     "# of Skill Badges Completed": 2,
     "Names of Completed Skill Badges": "Get Started with Cloud Storage [Skill Badge] | Get Started with Dataplex [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Uditha Reddy",
@@ -369,7 +399,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vasundhara Chakrapani",
@@ -381,7 +412,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Harshitha T N",
@@ -393,7 +425,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Narendra Reddy C R",
@@ -405,7 +438,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Akash R",
@@ -417,7 +451,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "VISHNU PRIYA R",
@@ -429,7 +464,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Soujanya R",
@@ -441,7 +477,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vaishnavi N Mahadev",
@@ -453,7 +490,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Keerthiraj R K",
@@ -465,7 +503,8 @@
     "# of Skill Badges Completed": 2,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Kishan Gowda D K",
@@ -477,7 +516,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Karthikeyan T",
@@ -489,7 +529,8 @@
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 2
   },
   {
     "User Name": "Rishi I",
@@ -501,7 +542,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Zahiya Saher",
@@ -513,7 +555,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Sree Rathna Ieji",
@@ -525,7 +568,8 @@
     "# of Skill Badges Completed": 2,
     "Names of Completed Skill Badges": "Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Akrant Debnath",
@@ -537,7 +581,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vaishnav S",
@@ -549,7 +594,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Yashaswini C Rao",
@@ -561,7 +607,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "V Sanjay",
@@ -573,7 +620,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shashank s",
@@ -585,7 +633,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Rajath N H",
@@ -597,7 +646,8 @@
     "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Raviteja M",
@@ -609,7 +659,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "K Anish Kumar",
@@ -621,7 +672,8 @@
     "# of Skill Badges Completed": 2,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Shivamrut G",
@@ -633,7 +685,8 @@
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 1
   },
   {
     "User Name": "Bhuvan H O",
@@ -645,7 +698,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Sudharshan Seetaram Hegde",
@@ -657,7 +711,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vinayak Magajikondi",
@@ -669,7 +724,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Sweta",
@@ -681,7 +737,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "K NEHA",
@@ -693,7 +750,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Pavithra S N",
@@ -705,7 +763,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Harshitha BN",
@@ -717,7 +776,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Atrinandan J",
@@ -729,7 +789,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Pratibha Jadhav",
@@ -741,7 +802,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Manu Kalyani",
@@ -753,7 +815,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Apeksha Hampimath",
@@ -765,7 +828,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Ashitha K",
@@ -777,7 +841,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Chaithra M S",
@@ -789,7 +854,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Ajay D",
@@ -801,7 +867,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shashank MK",
@@ -813,7 +880,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "SUDEEP V B",
@@ -825,7 +893,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Srinidhi M N",
@@ -837,7 +906,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Ankith P Athreya",
@@ -849,7 +919,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shree Hari N G",
@@ -861,7 +932,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vaishnavi Bandopant Mutalikdesai",
@@ -873,7 +945,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Rithya Jayaram",
@@ -885,7 +958,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Varalakshmi K R",
@@ -897,7 +971,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Abhinandan",
@@ -909,7 +984,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Gadicherla Ananya",
@@ -921,7 +997,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Gowda Ganesh Krishna",
@@ -933,7 +1010,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Mallikarjuna N",
@@ -945,7 +1023,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "MANYASHREE H",
@@ -957,7 +1036,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Mahadev Chidanand Athani",
@@ -969,7 +1049,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vikas J V",
@@ -981,7 +1062,8 @@
     "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Srajan",
@@ -993,7 +1075,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Lekha DH",
@@ -1005,7 +1088,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Suha Tasmiya",
@@ -1017,7 +1101,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Sunil Hegde",
@@ -1029,7 +1114,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Jyothika V",
@@ -1041,7 +1127,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "PAVAN KUMAR V",
@@ -1053,7 +1140,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Arya Pai",
@@ -1065,7 +1153,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Aryan Sankar Namboodiri",
@@ -1077,7 +1166,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Moksha N",
@@ -1089,7 +1179,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Ashray A",
@@ -1101,7 +1192,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "K C Likhith Palya",
@@ -1113,7 +1205,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Kankana Ghosh",
@@ -1125,7 +1218,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "ADARSHA",
@@ -1137,7 +1231,8 @@
     "# of Skill Badges Completed": 15,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop GenAI Apps with Gemini and Streamlit [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 2
   },
   {
     "User Name": "Dikshant Sharma",
@@ -1149,7 +1244,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shariq Khan",
@@ -1161,7 +1257,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Chyavan Rao A S",
@@ -1173,7 +1270,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Charan Teja B S",
@@ -1185,7 +1283,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Chandan R",
@@ -1197,7 +1296,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Veerendra S",
@@ -1209,7 +1309,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "W Pradeep",
@@ -1221,7 +1322,8 @@
     "# of Skill Badges Completed": 2,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Keshava Karthik C N",
@@ -1233,7 +1335,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shriganesh",
@@ -1245,7 +1348,8 @@
     "# of Skill Badges Completed": 10,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anish Sawhney",
@@ -1257,7 +1361,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Keerthi V Meti",
@@ -1269,7 +1374,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Rahul A",
@@ -1281,7 +1387,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Kamya S L",
@@ -1293,7 +1400,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Y. LOHITH",
@@ -1305,7 +1413,8 @@
     "# of Skill Badges Completed": 3,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Apoorva K R",
@@ -1317,7 +1426,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Manohar M",
@@ -1329,7 +1439,8 @@
     "# of Skill Badges Completed": 11,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Shashidhar Shivappa Kolkar",
@@ -1341,7 +1452,8 @@
     "# of Skill Badges Completed": 5,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anuj R Kalose",
@@ -1353,7 +1465,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "VINAY DUPAD",
@@ -1365,7 +1478,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "Get Started with Pub/Sub [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Maile Ganesh",
@@ -1377,7 +1491,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shivanand Madar",
@@ -1389,7 +1504,8 @@
     "# of Skill Badges Completed": 12,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Shriya Rao",
@@ -1401,7 +1517,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Gagan Poojari",
@@ -1413,7 +1530,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anagha S Raghavan",
@@ -1425,7 +1543,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Shweta chougala",
@@ -1437,7 +1556,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "K Swaroop",
@@ -1449,7 +1569,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Thilak S",
@@ -1461,7 +1582,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Prajwal Veeresh Arali",
@@ -1473,7 +1595,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Harshitha CS",
@@ -1485,7 +1608,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Pavan A Kustagi",
@@ -1497,7 +1621,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Vedika Shigaonker",
@@ -1509,7 +1634,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Tamil Selvi S",
@@ -1521,7 +1647,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Varsha Rao",
@@ -1533,7 +1660,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Parinitha S",
@@ -1545,7 +1673,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Anagha S Shastri",
@@ -1557,7 +1686,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 1,
-    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]"
+    "Names of Completed Arcade Games": "Level 3: Google Cloud Adventures [Game]",
+    "rank": 100
   },
   {
     "User Name": "Deekshith H R",
@@ -1569,7 +1699,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Mohith Monnappa T A",
@@ -1581,7 +1712,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Jitha Jayesh",
@@ -1593,7 +1725,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Sadananda Krishna Hegde",
@@ -1605,7 +1738,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Karthikey D Kadati",
@@ -1617,7 +1751,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Khadija parveez",
@@ -1629,7 +1764,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "G Sumanth",
@@ -1641,7 +1777,8 @@
     "# of Skill Badges Completed": 1,
     "Names of Completed Skill Badges": "The Basics of Google Cloud Compute [Skill Badge]",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Jeethan Shan Tauro",
@@ -1653,7 +1790,8 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   },
   {
     "User Name": "Amoghavarsha B",
@@ -1665,6 +1803,7 @@
     "# of Skill Badges Completed": 0,
     "Names of Completed Skill Badges": "",
     "# of Arcade Games Completed": 0,
-    "Names of Completed Arcade Games": ""
+    "Names of Completed Arcade Games": "",
+    "rank": 100
   }
 ]
